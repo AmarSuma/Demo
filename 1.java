@@ -1,1 +1,2 @@
-sample text of repository
+sample data
+2nd line
